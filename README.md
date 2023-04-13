@@ -1,0 +1,1 @@
+# A-fast-approach-for-automatic-generation-of-fuzzy-rules-by-generalized-dynamic-fuzzy-neural-networks
